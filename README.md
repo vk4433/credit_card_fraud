@@ -52,6 +52,9 @@ The best-performing model was selected based on the evaluation metrics.
 
 The goal was to achieve a high precision rate to effectively identify fraudulent transactions.
 
+## NOte
+i had tried  hyperparameters by using Gridsearch my system is not compactble i had waited more then 150+ min
+
 ## Unsupervised Machine Learning
 In addition to supervised learning, unsupervised machine learning techniques were explored. The following steps were taken:
 
